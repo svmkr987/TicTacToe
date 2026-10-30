@@ -1,0 +1,6 @@
+{
+  "name": "Nexus XO",
+  "description": "High-tech cyberpunk Tic-Tac-Toe featuring adaptive AI, real-time win-loss tracking, global leaderboards, daily login rewards, and futuristic dark visuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
